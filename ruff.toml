@@ -1,0 +1,5 @@
+[lint]
+# Real errors only (syntax, undefined names, unused imports/variables).
+# Style rules are not enforced in CI.
+select = ["E9", "F"]
+

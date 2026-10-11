@@ -1,4 +1,3 @@
-import json
 from pydantic import BaseModel, Field
 from typing import List, Optional
 # from src.adapters.groq_client import generate_structured_json

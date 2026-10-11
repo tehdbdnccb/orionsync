@@ -1,4 +1,3 @@
-import json
 from groq import Groq
 from pydantic import BaseModel
 from config.settings import get_settings
