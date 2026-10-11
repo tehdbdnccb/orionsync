@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Database
+*.sqlite3
+*.db
